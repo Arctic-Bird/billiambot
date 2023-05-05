@@ -261,4 +261,4 @@ async def on_command_error(ctx, error):
 async def guyslook(ctx):
     await ctx.send("https://youtu.be/xSxV9PTZlwA")
 
-client.run('NzM5MTcyMDY0MDA2NzY2Njcy.XyWloQ.BOkOBU63fmPMcmkmhOhwkeeid_A')
+client.run(':)')
